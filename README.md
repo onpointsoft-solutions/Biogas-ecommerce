@@ -46,8 +46,8 @@ This project is based on the [Flutter Getx Template](https://github.com/EmadBelt
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd biogas_technician_app
+   git clone https://github.com/onpointsoft-solutions/Biogas-ecommerce.git
+   cd Biogas-ecommerce
    ```
 
 2. **Install dependencies**:
