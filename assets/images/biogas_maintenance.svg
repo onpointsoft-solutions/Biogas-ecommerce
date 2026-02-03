@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f0f4f8"/>
+  <rect x="50" y="50" width="300" height="200" fill="#e2e8f0" rx="10"/>
+  <circle cx="200" cy="150" r="40" fill="#f59e0b"/>
+  <path d="M180 150 L220 150 M200 130 L200 170 M185 135 L215 165 M215 135 L185 165" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial" font-size="16" fill="#374151">Biogas Maintenance</text>
+</svg>
